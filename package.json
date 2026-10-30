@@ -1,0 +1,17 @@
+{
+  "name": "myteamup",
+  "version": "1.0.0",
+  "description": "backend for building teams @vit-ap campus",
+  "license": "ISC",
+  "author": "Khyathiswar",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodeman server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "nodeman": "^1.1.2"
+  }
+}
